@@ -12,3 +12,6 @@ aleatorio y asignar a cada persona un "compañero misterioso.
 
 ## 🧰 Herramientas y Tecnologías
 Lenguaje utilizado: JavaScript
+
+## 🚀 Demo en vivo
+👉 [Ver proyecto en GitHub Pages](https://roselloaxel24-dotcom.github.io/Challenge-Amigo-Secreto/)
