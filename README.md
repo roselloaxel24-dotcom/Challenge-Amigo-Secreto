@@ -1,4 +1,4 @@
-## Challange Amigo Secreto
+## Challenge Amigo Secreto
 Este es un proyecto desarrollado con JavaScript que facilita la
 creación de una lista de participantes para realizar un sorteo
 aleatorio y asignar a cada persona un "compañero misterioso.
